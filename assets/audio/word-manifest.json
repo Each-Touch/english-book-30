@@ -1,0 +1,646 @@
+{
+  "voice": "adult male | teacher clear",
+  "reference": "12-adult-male-teacher-clear.wav",
+  "cfg_value": 1.35,
+  "inference_timesteps": 12,
+  "normalize": false,
+  "method": "independent single-item VoxCPM generation; not extracted from sentence audio",
+  "words": {
+    "a": {
+      "text": "a",
+      "kind": "word",
+      "tokens": [
+        "a"
+      ],
+      "file": "words/a.mp3",
+      "verified_asr": "A.",
+      "verified_mp3_asr": "A.",
+      "generation_prompt": "A.",
+      "method": "independent VoxCPM word generation, ASR verified"
+    },
+    "again": {
+      "text": "again",
+      "kind": "word",
+      "tokens": [
+        "again"
+      ],
+      "file": "words/again.mp3",
+      "verified_asr": "Again.",
+      "verified_mp3_asr": "Again.",
+      "generation_prompt": "again.",
+      "method": "independent VoxCPM word generation, ASR verified"
+    },
+    "air": {
+      "text": "air",
+      "kind": "word",
+      "tokens": [
+        "air"
+      ],
+      "file": "words/air.mp3",
+      "verified_asr": "Air.",
+      "verified_mp3_asr": "air.",
+      "generation_prompt": "heir.",
+      "method": "independent VoxCPM word generation, ASR verified"
+    },
+    "all": {
+      "text": "all",
+      "kind": "word",
+      "tokens": [
+        "all"
+      ],
+      "file": "words/all.mp3",
+      "verified_asr": "all.",
+      "verified_mp3_asr": "all.",
+      "generation_prompt": "all",
+      "method": "independent VoxCPM word generation, ASR verified"
+    },
+    "also": {
+      "text": "also",
+      "kind": "word",
+      "tokens": [
+        "also"
+      ],
+      "file": "words/also.mp3"
+    },
+    "and": {
+      "text": "and",
+      "kind": "word",
+      "tokens": [
+        "and"
+      ],
+      "file": "words/and.mp3"
+    },
+    "become": {
+      "text": "become",
+      "kind": "word",
+      "tokens": [
+        "become"
+      ],
+      "file": "words/become.mp3"
+    },
+    "becomes": {
+      "text": "becomes",
+      "kind": "word",
+      "tokens": [
+        "becomes"
+      ],
+      "file": "words/becomes.mp3"
+    },
+    "big": {
+      "text": "big",
+      "kind": "word",
+      "tokens": [
+        "big"
+      ],
+      "file": "words/big.mp3"
+    },
+    "blow": {
+      "text": "blow",
+      "kind": "word",
+      "tokens": [
+        "blow"
+      ],
+      "file": "words/blow.mp3"
+    },
+    "but": {
+      "text": "but",
+      "kind": "word",
+      "tokens": [
+        "but"
+      ],
+      "file": "words/but.mp3"
+    },
+    "can": {
+      "text": "can",
+      "kind": "word",
+      "tokens": [
+        "can"
+      ],
+      "file": "words/can.mp3",
+      "verified_asr": "can",
+      "verified_mp3_asr": "can",
+      "generation_prompt": "can...",
+      "method": "independent VoxCPM word generation, ASR verified"
+    },
+    "chance": {
+      "text": "chance",
+      "kind": "word",
+      "tokens": [
+        "chance"
+      ],
+      "file": "words/chance.mp3"
+    },
+    "come": {
+      "text": "come",
+      "kind": "word",
+      "tokens": [
+        "come"
+      ],
+      "file": "words/come.mp3"
+    },
+    "comes": {
+      "text": "comes",
+      "kind": "word",
+      "tokens": [
+        "comes"
+      ],
+      "file": "words/comes.mp3"
+    },
+    "cool": {
+      "text": "cool",
+      "kind": "word",
+      "tokens": [
+        "cool"
+      ],
+      "file": "words/cool.mp3"
+    },
+    "does": {
+      "text": "does",
+      "kind": "word",
+      "tokens": [
+        "does"
+      ],
+      "file": "words/does.mp3"
+    },
+    "down": {
+      "text": "down",
+      "kind": "word",
+      "tokens": [
+        "down"
+      ],
+      "file": "words/down.mp3"
+    },
+    "earth": {
+      "text": "earth",
+      "kind": "word",
+      "tokens": [
+        "earth"
+      ],
+      "file": "words/earth.mp3"
+    },
+    "explain": {
+      "text": "explain",
+      "kind": "word",
+      "tokens": [
+        "explain"
+      ],
+      "file": "words/explain.mp3"
+    },
+    "fly": {
+      "text": "fly",
+      "kind": "word",
+      "tokens": [
+        "fly"
+      ],
+      "file": "words/fly.mp3",
+      "verified_asr": "fly.",
+      "verified_mp3_asr": "fly.",
+      "generation_prompt": "Fly.",
+      "method": "independent VoxCPM word generation, ASR verified"
+    },
+    "from": {
+      "text": "from",
+      "kind": "word",
+      "tokens": [
+        "from"
+      ],
+      "file": "words/from.mp3"
+    },
+    "gives": {
+      "text": "gives",
+      "kind": "word",
+      "tokens": [
+        "gives"
+      ],
+      "file": "words/gives.mp3"
+    },
+    "goes": {
+      "text": "goes",
+      "kind": "word",
+      "tokens": [
+        "goes"
+      ],
+      "file": "words/goes.mp3",
+      "verified_asr": "goes",
+      "verified_mp3_asr": "goes",
+      "generation_prompt": "goes...",
+      "method": "independent VoxCPM word generation, ASR verified"
+    },
+    "have": {
+      "text": "have",
+      "kind": "word",
+      "tokens": [
+        "have"
+      ],
+      "file": "words/have.mp3",
+      "verified_asr": "Have.",
+      "verified_mp3_asr": "Have.",
+      "generation_prompt": "Have.",
+      "method": "independent VoxCPM word generation, ASR verified"
+    },
+    "higher": {
+      "text": "higher",
+      "kind": "word",
+      "tokens": [
+        "higher"
+      ],
+      "file": "words/higher.mp3"
+    },
+    "hot": {
+      "text": "hot",
+      "kind": "word",
+      "tokens": [
+        "hot"
+      ],
+      "file": "words/hot.mp3",
+      "verified_asr": "Hot.",
+      "verified_mp3_asr": "Hot.",
+      "generation_prompt": "Hot.",
+      "method": "independent VoxCPM word generation, ASR verified"
+    },
+    "hotter": {
+      "text": "hotter",
+      "kind": "word",
+      "tokens": [
+        "hotter"
+      ],
+      "file": "words/hotter.mp3",
+      "verified_asr": "hotter",
+      "verified_mp3_asr": "hotter",
+      "generation_prompt": "Hotter.",
+      "method": "independent VoxCPM word generation, ASR verified"
+    },
+    "in": {
+      "text": "in",
+      "kind": "word",
+      "tokens": [
+        "in"
+      ],
+      "file": "words/in.mp3",
+      "verified_asr": "in.",
+      "verified_mp3_asr": "in.",
+      "generation_prompt": "In.",
+      "method": "independent VoxCPM word generation, ASR verified"
+    },
+    "is": {
+      "text": "is",
+      "kind": "word",
+      "tokens": [
+        "is"
+      ],
+      "file": "words/is.mp3",
+      "verified_asr": "is.",
+      "verified_mp3_asr": "is.",
+      "generation_prompt": "is.",
+      "method": "independent VoxCPM word generation, ASR verified"
+    },
+    "it": {
+      "text": "it",
+      "kind": "word",
+      "tokens": [
+        "it"
+      ],
+      "file": "words/it.mp3",
+      "verified_asr": "It.",
+      "verified_mp3_asr": "IT",
+      "generation_prompt": "It!",
+      "method": "independent VoxCPM word generation, ASR verified"
+    },
+    "kite": {
+      "text": "kite",
+      "kind": "word",
+      "tokens": [
+        "kite"
+      ],
+      "file": "words/kite.mp3",
+      "verified_asr": "Kite.",
+      "verified_mp3_asr": "Kite.",
+      "generation_prompt": "kite.",
+      "method": "independent VoxCPM word generation, ASR verified"
+    },
+    "light": {
+      "text": "light",
+      "kind": "word",
+      "tokens": [
+        "light"
+      ],
+      "file": "words/light.mp3"
+    },
+    "lighter": {
+      "text": "lighter",
+      "kind": "word",
+      "tokens": [
+        "lighter"
+      ],
+      "file": "words/lighter.mp3"
+    },
+    "like": {
+      "text": "like",
+      "kind": "word",
+      "tokens": [
+        "like"
+      ],
+      "file": "words/like.mp3",
+      "verified_asr": "Like.",
+      "verified_mp3_asr": "Like.",
+      "generation_prompt": "Like.",
+      "method": "independent VoxCPM word generation, ASR verified"
+    },
+    "makes": {
+      "text": "makes",
+      "kind": "word",
+      "tokens": [
+        "makes"
+      ],
+      "file": "words/makes.mp3"
+    },
+    "move": {
+      "text": "move",
+      "kind": "word",
+      "tokens": [
+        "move"
+      ],
+      "file": "words/move.mp3"
+    },
+    "moves": {
+      "text": "moves",
+      "kind": "word",
+      "tokens": [
+        "moves"
+      ],
+      "file": "words/moves.mp3",
+      "verified_asr": "moves.",
+      "verified_mp3_asr": "moves.",
+      "generation_prompt": "moves.",
+      "method": "independent VoxCPM word generation, ASR verified"
+    },
+    "of": {
+      "text": "of",
+      "kind": "word",
+      "tokens": [
+        "of"
+      ],
+      "file": "words/of.mp3"
+    },
+    "on": {
+      "text": "on",
+      "kind": "word",
+      "tokens": [
+        "on"
+      ],
+      "file": "words/on.mp3",
+      "verified_asr": "on.",
+      "verified_mp3_asr": "on.",
+      "generation_prompt": "on...",
+      "method": "independent VoxCPM word generation, ASR verified"
+    },
+    "oven": {
+      "text": "oven",
+      "kind": "word",
+      "tokens": [
+        "oven"
+      ],
+      "file": "words/oven.mp3"
+    },
+    "place": {
+      "text": "place",
+      "kind": "word",
+      "tokens": [
+        "place"
+      ],
+      "file": "words/place.mp3",
+      "verified_asr": "place.",
+      "verified_mp3_asr": "place.",
+      "generation_prompt": "place.",
+      "method": "independent VoxCPM word generation, ASR verified"
+    },
+    "rise": {
+      "text": "rise",
+      "kind": "word",
+      "tokens": [
+        "rise"
+      ],
+      "file": "words/rise.mp3"
+    },
+    "rises": {
+      "text": "rises",
+      "kind": "word",
+      "tokens": [
+        "rises"
+      ],
+      "file": "words/rises.mp3",
+      "verified_asr": "rises.",
+      "verified_mp3_asr": "rises.",
+      "generation_prompt": "Rises.",
+      "method": "independent VoxCPM word generation, ASR verified"
+    },
+    "scientist": {
+      "text": "scientist",
+      "kind": "word",
+      "tokens": [
+        "scientist"
+      ],
+      "file": "words/scientist.mp3"
+    },
+    "scientists": {
+      "text": "scientists",
+      "kind": "word",
+      "tokens": [
+        "scientists"
+      ],
+      "file": "words/scientists.mp3"
+    },
+    "shine": {
+      "text": "shine",
+      "kind": "word",
+      "tokens": [
+        "shine"
+      ],
+      "file": "words/shine.mp3"
+    },
+    "shines": {
+      "text": "shines",
+      "kind": "word",
+      "tokens": [
+        "shines"
+      ],
+      "file": "words/shines.mp3",
+      "verified_asr": "Shines",
+      "verified_mp3_asr": "shines",
+      "generation_prompt": "shines...",
+      "method": "independent VoxCPM word generation, ASR verified"
+    },
+    "sun": {
+      "text": "sun",
+      "kind": "word",
+      "tokens": [
+        "sun"
+      ],
+      "file": "words/sun.mp3",
+      "verified_asr": "Sun",
+      "verified_mp3_asr": "Sun",
+      "generation_prompt": "sun.",
+      "method": "independent VoxCPM word generation, ASR verified"
+    },
+    "take": {
+      "text": "take",
+      "kind": "word",
+      "tokens": [
+        "take"
+      ],
+      "file": "words/take.mp3"
+    },
+    "that": {
+      "text": "that",
+      "kind": "word",
+      "tokens": [
+        "that"
+      ],
+      "file": "words/that.mp3",
+      "verified_asr": "that.",
+      "verified_mp3_asr": "that.",
+      "generation_prompt": "that.",
+      "method": "independent VoxCPM word generation, ASR verified"
+    },
+    "the": {
+      "text": "the",
+      "kind": "word",
+      "tokens": [
+        "the"
+      ],
+      "file": "words/the.mp3",
+      "verified_asr": "THE",
+      "verified_mp3_asr": "The",
+      "generation_prompt": "the",
+      "method": "independent VoxCPM word generation, ASR verified"
+    },
+    "then": {
+      "text": "then",
+      "kind": "word",
+      "tokens": [
+        "then"
+      ],
+      "file": "words/then.mp3"
+    },
+    "this": {
+      "text": "this",
+      "kind": "word",
+      "tokens": [
+        "this"
+      ],
+      "file": "words/this.mp3"
+    },
+    "time": {
+      "text": "time",
+      "kind": "word",
+      "tokens": [
+        "time"
+      ],
+      "file": "words/time.mp3",
+      "verified_asr": "time.",
+      "verified_mp3_asr": "time.",
+      "generation_prompt": "time.",
+      "method": "independent VoxCPM word generation, ASR verified"
+    },
+    "to": {
+      "text": "to",
+      "kind": "word",
+      "tokens": [
+        "to"
+      ],
+      "file": "words/to.mp3"
+    },
+    "until": {
+      "text": "until",
+      "kind": "word",
+      "tokens": [
+        "until"
+      ],
+      "file": "words/until.mp3"
+    },
+    "up": {
+      "text": "up",
+      "kind": "word",
+      "tokens": [
+        "up"
+      ],
+      "file": "words/up.mp3",
+      "verified_asr": "up.",
+      "verified_mp3_asr": "up.",
+      "generation_prompt": "up.",
+      "method": "independent VoxCPM word generation, ASR verified"
+    },
+    "upwards": {
+      "text": "upwards",
+      "kind": "word",
+      "tokens": [
+        "upwards"
+      ],
+      "file": "words/upwards.mp3",
+      "verified_asr": "upwards",
+      "verified_mp3_asr": "Upwards",
+      "generation_prompt": "upwards.",
+      "method": "independent VoxCPM word generation, ASR verified"
+    },
+    "we": {
+      "text": "we",
+      "kind": "word",
+      "tokens": [
+        "we"
+      ],
+      "file": "words/we.mp3",
+      "verified_asr": "We.",
+      "verified_mp3_asr": "We.",
+      "generation_prompt": "We.",
+      "method": "independent VoxCPM word generation, ASR verified"
+    },
+    "what": {
+      "text": "what",
+      "kind": "word",
+      "tokens": [
+        "what"
+      ],
+      "file": "words/what.mp3"
+    },
+    "when": {
+      "text": "when",
+      "kind": "word",
+      "tokens": [
+        "when"
+      ],
+      "file": "words/when.mp3",
+      "verified_asr": "When?",
+      "verified_mp3_asr": "When?",
+      "generation_prompt": "When.",
+      "method": "independent VoxCPM word generation, ASR verified"
+    },
+    "where": {
+      "text": "where",
+      "kind": "word",
+      "tokens": [
+        "where"
+      ],
+      "file": "words/where.mp3"
+    },
+    "wind": {
+      "text": "wind",
+      "kind": "word",
+      "tokens": [
+        "wind"
+      ],
+      "file": "words/wind.mp3",
+      "verified_asr": "Wind!",
+      "verified_mp3_asr": "Wind!",
+      "generation_prompt": "wind.",
+      "method": "independent VoxCPM word generation, ASR verified"
+    },
+    "windy": {
+      "text": "windy",
+      "kind": "word",
+      "tokens": [
+        "windy"
+      ],
+      "file": "words/windy.mp3"
+    }
+  }
+}

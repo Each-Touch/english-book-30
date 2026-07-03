@@ -1,0 +1,559 @@
+{
+  "passageNumber": 30,
+  "title": "Where Wind Comes From",
+  "units": [
+    "第一单元 开始",
+    "第二单元 发展",
+    "第三单元 结尾"
+  ],
+  "pages": [
+    {
+      "image": "assets/images/00.png",
+      "en": "Where Wind Comes From",
+      "cn": "第 30 篇",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/01.png",
+      "en": "When it is windy, we can fly a kite.",
+      "cn": "有风的时候，我们可以放风筝。",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/02.png",
+      "en": "But where does the wind come from?",
+      "cn": "但是风从哪里来呢？",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/03.png",
+      "en": "What makes the wind move all the time?",
+      "cn": "是什么让风一直移动呢？",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/04.png",
+      "en": "Scientists explain that it is the sun.",
+      "cn": "科学家解释说，是太阳。",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/05.png",
+      "en": "The sun makes the air move, and makes it blow.",
+      "cn": "太阳让空气移动，并让它吹起来。",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/06.png",
+      "en": "When the sun shines on the earth, it makes the earth hot.",
+      "cn": "当太阳照在地球上时，它使地球变热。",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/07.png",
+      "en": "Then the earth, like a big oven, makes the air hot.",
+      "cn": "然后地球像一个大烤箱一样，把空气变热。",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/08.png",
+      "en": "When the air becomes hotter, it also becomes lighter and rises.",
+      "cn": "当空气变得更热时，它也变得更轻并上升。",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/09.png",
+      "en": "This gives the cool air a chance to come in and take the place of the hot air.",
+      "cn": "这给了冷空气进入并取代热空气的机会。",
+      "unit": 3
+    },
+    {
+      "image": "assets/images/10.png",
+      "en": "The hot light air goes up higher and higher until it becomes cool.",
+      "cn": "又热又轻的空气越升越高，直到变凉。",
+      "unit": 3
+    },
+    {
+      "image": "assets/images/11.png",
+      "en": "Then it comes down again, and the earth makes it hot again, and it goes upwards again.",
+      "cn": "然后它再次下降，地球又把它变热，它又再次向上升。",
+      "unit": 3
+    },
+    {
+      "image": "assets/images/12.png",
+      "en": "When the air moves, we have wind.",
+      "cn": "空气移动时，我们就有了风。",
+      "unit": 3
+    }
+  ],
+  "dictionary": {
+    "a": {
+      "phonetic": "/ə/",
+      "translation": "一个；一"
+    },
+    "again": {
+      "phonetic": "/əˈgɛn/",
+      "translation": "再次"
+    },
+    "air": {
+      "phonetic": "[eə(r)]",
+      "translation": "空气",
+      "cardId": "core-005"
+    },
+    "all": {
+      "phonetic": "/ɔl/",
+      "translation": "全部"
+    },
+    "also": {
+      "phonetic": "/ˈɔlsoʊ/",
+      "translation": "还"
+    },
+    "and": {
+      "phonetic": "/ænd/",
+      "translation": "和"
+    },
+    "become": {
+      "phonetic": "[bɪˈkʌm]",
+      "translation": "变成",
+      "cardId": "core-008"
+    },
+    "becomes": {
+      "phonetic": "/bɪˈkəmz/",
+      "translation": "变成"
+    },
+    "big": {
+      "phonetic": "/bɪg/",
+      "translation": "大的"
+    },
+    "blow": {
+      "phonetic": "/bloʊ/",
+      "translation": "吹"
+    },
+    "but": {
+      "phonetic": "/bət/",
+      "translation": "但"
+    },
+    "can": {
+      "phonetic": "/kən/",
+      "translation": "能"
+    },
+    "chance": {
+      "phonetic": "[tʃɑːns]",
+      "translation": "机会",
+      "cardId": "core-010"
+    },
+    "come": {
+      "phonetic": "/kəm/",
+      "translation": "来"
+    },
+    "comes": {
+      "phonetic": "/kəmz/",
+      "translation": "来了"
+    },
+    "cool": {
+      "phonetic": "/kul/",
+      "translation": "凉爽的"
+    },
+    "does": {
+      "phonetic": "/dɪz/",
+      "translation": "做"
+    },
+    "down": {
+      "phonetic": "/daʊn/",
+      "translation": "向下"
+    },
+    "earth": {
+      "phonetic": "[ɜːθ]",
+      "translation": "地球；土地",
+      "cardId": "core-007"
+    },
+    "explain": {
+      "phonetic": "[ɪkˈspleɪn]",
+      "translation": "解释",
+      "cardId": "core-004"
+    },
+    "fly": {
+      "phonetic": "/flaɪ/",
+      "translation": "飞"
+    },
+    "from": {
+      "phonetic": "/frʌm/",
+      "translation": "从"
+    },
+    "gives": {
+      "phonetic": "/gɪvz/",
+      "translation": "给出"
+    },
+    "goes": {
+      "phonetic": "/goʊz/",
+      "translation": "去"
+    },
+    "have": {
+      "phonetic": "/hæv/",
+      "translation": "有"
+    },
+    "higher": {
+      "phonetic": "/haɪər/",
+      "translation": "更高"
+    },
+    "hot": {
+      "phonetic": "/hɑt/",
+      "translation": "热的"
+    },
+    "hotter": {
+      "phonetic": "/ˈhɑtər/",
+      "translation": "更热"
+    },
+    "in": {
+      "phonetic": "/ɪn/",
+      "translation": "在……里"
+    },
+    "is": {
+      "phonetic": "/ɪz/",
+      "translation": "是"
+    },
+    "it": {
+      "phonetic": "/ɪt/",
+      "translation": "它"
+    },
+    "kite": {
+      "phonetic": "[kaɪt]",
+      "translation": "风筝",
+      "cardId": "core-002"
+    },
+    "light": {
+      "phonetic": "/laɪt/",
+      "translation": "光"
+    },
+    "lighter": {
+      "phonetic": "/ˈlaɪtər/",
+      "translation": "打火机"
+    },
+    "like": {
+      "phonetic": "/laɪk/",
+      "translation": "喜欢"
+    },
+    "makes": {
+      "phonetic": "/meɪks/",
+      "translation": "使"
+    },
+    "move": {
+      "phonetic": "/muv/",
+      "translation": "移动"
+    },
+    "moves": {
+      "phonetic": "/muvz/",
+      "translation": "动作"
+    },
+    "of": {
+      "phonetic": "/əv/",
+      "translation": "……的"
+    },
+    "on": {
+      "phonetic": "/ɑːn/",
+      "translation": "在……上"
+    },
+    "oven": {
+      "phonetic": "/ˈəvən/",
+      "translation": "烤箱"
+    },
+    "place": {
+      "phonetic": "[pleɪs]",
+      "translation": "地方；位置",
+      "cardId": "core-011"
+    },
+    "rise": {
+      "phonetic": "[raɪz]",
+      "translation": "升起",
+      "cardId": "core-009"
+    },
+    "rises": {
+      "phonetic": "/ˈraɪzɪz/",
+      "translation": "上升"
+    },
+    "scientist": {
+      "phonetic": "[ˈsaɪəntɪst]",
+      "translation": "科学家",
+      "cardId": "core-003"
+    },
+    "scientists": {
+      "phonetic": "/ˈsaɪəntɪsts/",
+      "translation": "科学家"
+    },
+    "shine": {
+      "phonetic": "[ʃaɪn]",
+      "translation": "照耀",
+      "cardId": "core-006"
+    },
+    "shines": {
+      "phonetic": "/ʃaɪnz/",
+      "translation": "闪耀"
+    },
+    "sun": {
+      "phonetic": "/sən/",
+      "translation": "太阳"
+    },
+    "take": {
+      "phonetic": "/teɪk/",
+      "translation": "拿"
+    },
+    "that": {
+      "phonetic": "/ðət/",
+      "translation": "那"
+    },
+    "the": {
+      "phonetic": "/ðə/",
+      "translation": "这个；那个"
+    },
+    "then": {
+      "phonetic": "/ðɛn/",
+      "translation": "然后"
+    },
+    "this": {
+      "phonetic": "/ðɪs/",
+      "translation": "这"
+    },
+    "time": {
+      "phonetic": "/taɪm/",
+      "translation": "时间"
+    },
+    "to": {
+      "phonetic": "/tuː/",
+      "translation": "到；向"
+    },
+    "until": {
+      "phonetic": "/ənˈtɪl/",
+      "translation": "直到"
+    },
+    "up": {
+      "phonetic": "/əp/",
+      "translation": "向上"
+    },
+    "upwards": {
+      "phonetic": "[ˈʌpwədz]",
+      "translation": "向上",
+      "cardId": "core-012"
+    },
+    "we": {
+      "phonetic": "/wiː/",
+      "translation": "我们"
+    },
+    "what": {
+      "phonetic": "/wət/",
+      "translation": "什么"
+    },
+    "when": {
+      "phonetic": "/wɪn/",
+      "translation": "什么时候"
+    },
+    "where": {
+      "phonetic": "/wɛr/",
+      "translation": "在哪里"
+    },
+    "wind": {
+      "phonetic": "/wɪnd/",
+      "translation": "风"
+    },
+    "windy": {
+      "phonetic": "[ˈwɪndi]",
+      "translation": "有风的",
+      "cardId": "core-001"
+    }
+  },
+  "coreCards": [
+    {
+      "id": "core-001",
+      "word": "windy",
+      "speak": "windy",
+      "phonetic": "[ˈwɪndi]",
+      "meaning": "有风的",
+      "memory": "windy → 有风的",
+      "match": "windy",
+      "example": "When it is windy, we can fly a kite. 有风的时候，我们可以放风筝。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-002",
+      "word": "kite",
+      "speak": "kite",
+      "phonetic": "[kaɪt]",
+      "meaning": "风筝",
+      "memory": "kite → 风筝",
+      "match": "kite",
+      "example": "When it is windy, we can fly a kite. 有风的时候，我们可以放风筝。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-003",
+      "word": "scientist",
+      "speak": "scientist",
+      "phonetic": "[ˈsaɪəntɪst]",
+      "meaning": "科学家",
+      "memory": "scientist → 科学家",
+      "match": "scientist",
+      "example": "When it is windy, we can fly a kite. 有风的时候，我们可以放风筝。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-004",
+      "word": "explain",
+      "speak": "explain",
+      "phonetic": "[ɪkˈspleɪn]",
+      "meaning": "解释",
+      "memory": "explain → 解释",
+      "match": "explain",
+      "example": "Scientists explain that it is the sun. 科学家解释说，是太阳。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-005",
+      "word": "air",
+      "speak": "air",
+      "phonetic": "[eə(r)]",
+      "meaning": "空气",
+      "memory": "air → 空气",
+      "match": "air",
+      "example": "The sun makes the air move, and makes it blow. 太阳让空气移动，并让它吹起来。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-006",
+      "word": "shine",
+      "speak": "shine",
+      "phonetic": "[ʃaɪn]",
+      "meaning": "照耀",
+      "memory": "shine → 照耀",
+      "match": "shine",
+      "example": "When it is windy, we can fly a kite. 有风的时候，我们可以放风筝。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-007",
+      "word": "earth",
+      "speak": "earth",
+      "phonetic": "[ɜːθ]",
+      "meaning": "地球；土地",
+      "memory": "earth → 地球；土地",
+      "match": "earth",
+      "example": "When the sun shines on the earth, it makes the earth hot. 当太阳照在地球上时，它使地球变热。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-008",
+      "word": "become",
+      "speak": "become",
+      "phonetic": "[bɪˈkʌm]",
+      "meaning": "变成",
+      "memory": "become → 变成",
+      "match": "become",
+      "example": "When it is windy, we can fly a kite. 有风的时候，我们可以放风筝。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-009",
+      "word": "rise",
+      "speak": "rise",
+      "phonetic": "[raɪz]",
+      "meaning": "升起",
+      "memory": "rise → 升起",
+      "match": "rise",
+      "example": "When it is windy, we can fly a kite. 有风的时候，我们可以放风筝。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-010",
+      "word": "chance",
+      "speak": "chance",
+      "phonetic": "[tʃɑːns]",
+      "meaning": "机会",
+      "memory": "chance → 机会",
+      "match": "chance",
+      "example": "This gives the cool air a chance to come in and take the place of the hot air. 这给了冷空气进入并取代热空气的机会。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-011",
+      "word": "place",
+      "speak": "place",
+      "phonetic": "[pleɪs]",
+      "meaning": "地方；位置",
+      "memory": "place → 地方；位置",
+      "match": "place",
+      "example": "This gives the cool air a chance to come in and take the place of the hot air. 这给了冷空气进入并取代热空气的机会。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-012",
+      "word": "upwards",
+      "speak": "upwards",
+      "phonetic": "[ˈʌpwədz]",
+      "meaning": "向上",
+      "memory": "upwards → 向上",
+      "match": "upwards",
+      "example": "Then it comes down again, and the earth makes it hot again, and it goes upwards again. 然后它再次下降，地球又把它变热，它又再次向上升。",
+      "note": "先听发音，再跟着句子读一遍。"
+    }
+  ],
+  "coreWords": [
+    {
+      "word": "windy",
+      "phonetic": "[ˈwɪndi]",
+      "meaning": "有风的"
+    },
+    {
+      "word": "kite",
+      "phonetic": "[kaɪt]",
+      "meaning": "风筝"
+    },
+    {
+      "word": "scientist",
+      "phonetic": "[ˈsaɪəntɪst]",
+      "meaning": "科学家"
+    },
+    {
+      "word": "explain",
+      "phonetic": "[ɪkˈspleɪn]",
+      "meaning": "解释"
+    },
+    {
+      "word": "air",
+      "phonetic": "[eə(r)]",
+      "meaning": "空气"
+    },
+    {
+      "word": "shine",
+      "phonetic": "[ʃaɪn]",
+      "meaning": "照耀"
+    },
+    {
+      "word": "earth",
+      "phonetic": "[ɜːθ]",
+      "meaning": "地球；土地"
+    },
+    {
+      "word": "become",
+      "phonetic": "[bɪˈkʌm]",
+      "meaning": "变成"
+    },
+    {
+      "word": "rise",
+      "phonetic": "[raɪz]",
+      "meaning": "升起"
+    },
+    {
+      "word": "chance",
+      "phonetic": "[tʃɑːns]",
+      "meaning": "机会"
+    },
+    {
+      "word": "place",
+      "phonetic": "[pleɪs]",
+      "meaning": "地方；位置"
+    },
+    {
+      "word": "upwards",
+      "phonetic": "[ˈʌpwədz]",
+      "meaning": "向上"
+    }
+  ]
+}

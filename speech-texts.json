@@ -1,0 +1,74 @@
+{
+  "voice": "adult male | teacher clear",
+  "reference": "12-adult-male-teacher-clear.wav",
+  "cfg_value": 1.35,
+  "inference_timesteps": 12,
+  "normalize": false,
+  "pages": [
+    {
+      "page": 0,
+      "visible": "Where Wind Comes From",
+      "speech": "Where Wind Comes From"
+    },
+    {
+      "page": 1,
+      "visible": "When it is windy, we can fly a kite.",
+      "speech": "When it is windy, we can fly a kite."
+    },
+    {
+      "page": 2,
+      "visible": "But where does the wind come from?",
+      "speech": "But where does the wind come from?"
+    },
+    {
+      "page": 3,
+      "visible": "What makes the wind move all the time?",
+      "speech": "What makes the wind move all the time?"
+    },
+    {
+      "page": 4,
+      "visible": "Scientists explain that it is the sun.",
+      "speech": "Scientists explain that it is the sun."
+    },
+    {
+      "page": 5,
+      "visible": "The sun makes the air move, and makes it blow.",
+      "speech": "The sun makes the air move, and makes it blow."
+    },
+    {
+      "page": 6,
+      "visible": "When the sun shines on the earth, it makes the earth hot.",
+      "speech": "When the sun shines on the earth, it makes the earth hot."
+    },
+    {
+      "page": 7,
+      "visible": "Then the earth, like a big oven, makes the air hot.",
+      "speech": "Then the earth, like a big oven, makes the air hot."
+    },
+    {
+      "page": 8,
+      "visible": "When the air becomes hotter, it also becomes lighter and rises.",
+      "speech": "When the air becomes hotter, it also becomes lighter and rises."
+    },
+    {
+      "page": 9,
+      "visible": "This gives the cool air a chance to come in and take the place of the hot air.",
+      "speech": "This gives the cool air a chance to come in and take the place of the hot air."
+    },
+    {
+      "page": 10,
+      "visible": "The hot light air goes up higher and higher until it becomes cool.",
+      "speech": "The hot light air goes up higher and higher until it becomes cool."
+    },
+    {
+      "page": 11,
+      "visible": "Then it comes down again, and the earth makes it hot again, and it goes upwards again.",
+      "speech": "Then it comes down again, and the earth makes it hot again, and it goes upwards again."
+    },
+    {
+      "page": 12,
+      "visible": "When the air moves, we have wind.",
+      "speech": "When the air moves, we have wind."
+    }
+  ]
+}

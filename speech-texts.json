@@ -1,74 +1,162 @@
 {
-  "voice": "adult male | teacher clear",
-  "reference": "12-adult-male-teacher-clear.wav",
-  "cfg_value": 1.35,
-  "inference_timesteps": 12,
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "reference": "/Users/zhaozixu/Applications/IndexTTS-2.5/presets/british_teacher/reference_slow.wav",
+  "cfg_value": 1.6,
+  "inference_timesteps": 10,
   "normalize": false,
   "pages": [
     {
       "page": 0,
       "visible": "Where Wind Comes From",
-      "speech": "Where Wind Comes From"
+      "speech": "Where Wind Comes From",
+      "file": "sentences/page-00.mp3",
+      "duration_seconds": 3.256,
+      "raw_duration_seconds": 2.24,
+      "asr": "where wind comes from.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 1,
       "visible": "When it is windy, we can fly a kite.",
-      "speech": "When it is windy, we can fly a kite."
+      "speech": "When it is windy, we can fly a kite.",
+      "file": "sentences/page-01.mp3",
+      "duration_seconds": 4.992,
+      "raw_duration_seconds": 2.4,
+      "asr": "When it is windy, we can fly a kite.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 2,
       "visible": "But where does the wind come from?",
-      "speech": "But where does the wind come from?"
+      "speech": "But where does the wind come from?",
+      "file": "sentences/page-02.mp3",
+      "duration_seconds": 4.563,
+      "raw_duration_seconds": 2.24,
+      "asr": "But where does the wind come from?",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 3,
       "visible": "What makes the wind move all the time?",
-      "speech": "What makes the wind move all the time?"
+      "speech": "What makes the wind move all the time?",
+      "file": "sentences/page-03.mp3",
+      "duration_seconds": 5.039,
+      "raw_duration_seconds": 2.4,
+      "asr": "What makes the wind move all the time?",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 4,
       "visible": "Scientists explain that it is the sun.",
-      "speech": "Scientists explain that it is the sun."
+      "speech": "Scientists explain that it is the sun.",
+      "file": "sentences/page-04.mp3",
+      "duration_seconds": 4.47,
+      "raw_duration_seconds": 2.72,
+      "asr": "Scientists explain that it is the sun.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 5,
       "visible": "The sun makes the air move, and makes it blow.",
-      "speech": "The sun makes the air move, and makes it blow."
+      "speech": "The sun makes the air move, and makes it blow.",
+      "file": "sentences/page-05.mp3",
+      "duration_seconds": 5.41,
+      "raw_duration_seconds": 3.04,
+      "asr": "The sun makes the air move and makes it blow.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 6,
       "visible": "When the sun shines on the earth, it makes the earth hot.",
-      "speech": "When the sun shines on the earth, it makes the earth hot."
+      "speech": "When the sun shines on the earth, it makes the earth hot.",
+      "file": "sentences/page-06.mp3",
+      "duration_seconds": 5.933,
+      "raw_duration_seconds": 3.84,
+      "asr": "When the sun shines on the earth, it makes the earth hot.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 7,
       "visible": "Then the earth, like a big oven, makes the air hot.",
-      "speech": "Then the earth, like a big oven, makes the air hot."
+      "speech": "Then the earth, like a big oven, makes the air hot.",
+      "file": "sentences/page-07.mp3",
+      "duration_seconds": 5.55,
+      "raw_duration_seconds": 3.04,
+      "asr": "Then the earth, like a big oven, makes the air hot.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 8,
       "visible": "When the air becomes hotter, it also becomes lighter and rises.",
-      "speech": "When the air becomes hotter, it also becomes lighter and rises."
+      "speech": "When the air becomes hotter, it also becomes lighter and rises.",
+      "file": "sentences/page-08.mp3",
+      "duration_seconds": 7.012,
+      "raw_duration_seconds": 3.68,
+      "asr": "When the air becomes hotter, it also becomes lighter and rises.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 9,
       "visible": "This gives the cool air a chance to come in and take the place of the hot air.",
-      "speech": "This gives the cool air a chance to come in and take the place of the hot air."
+      "speech": "This gives the cool air a chance to come in and take the place of the hot air.",
+      "file": "sentences/page-09.mp3",
+      "duration_seconds": 7.814,
+      "raw_duration_seconds": 4.16,
+      "asr": "This gives the cool air a chance to come in and take the place of the hot air.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 10,
       "visible": "The hot light air goes up higher and higher until it becomes cool.",
-      "speech": "The hot light air goes up higher and higher until it becomes cool."
+      "speech": "The hot light air goes up higher and higher until it becomes cool.",
+      "file": "sentences/page-10.mp3",
+      "duration_seconds": 6.641,
+      "raw_duration_seconds": 4.0,
+      "asr": "The hot light air goes up higher and higher until it becomes cool.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 11,
       "visible": "Then it comes down again, and the earth makes it hot again, and it goes upwards again.",
-      "speech": "Then it comes down again, and the earth makes it hot again, and it goes upwards again."
+      "speech": "Then it comes down again, and the earth makes it hot again, and it goes upwards again.",
+      "file": "sentences/page-11.mp3",
+      "duration_seconds": 8.104,
+      "raw_duration_seconds": 4.8,
+      "asr": "Then it comes down again, and the earth makes it hot again, and it goes upwards again.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 12,
       "visible": "When the air moves, we have wind.",
-      "speech": "When the air moves, we have wind."
+      "speech": "When the air moves, we have wind.",
+      "file": "sentences/page-12.mp3",
+      "duration_seconds": 4.191,
+      "raw_duration_seconds": 2.56,
+      "asr": "When the air moves, we have wind.",
+      "asr_exact": true,
+      "needs_manual_review": false
     }
-  ]
+  ],
+  "model": "IndexTeam/IndexTTS-2.5",
+  "post_atempo": null,
+  "method": "fixed British reference cloned sentence by sentence with IndexTTS2.5; native 1.18 duration factor; strict local ASR; capped Rubber Band R3 alignment; two-pass loudness normalization",
+  "qa": {
+    "sentence_count": 13,
+    "asr_exact_count": 13,
+    "manual_review_pages": [],
+    "all_files_decode": true,
+    "checksums_verified": true
+  }
 }
